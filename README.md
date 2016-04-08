@@ -3,7 +3,7 @@ A cordova sqlite for react-native, supprt for ios and android
 
 ## Installation
 ```sh
-npm install @remobile/react-native-sqlite --save
+npm install @zss0512/react-native-sqlite --save
 ```
 ### Installation (iOS)
 * Drag RCTSqlite.xcodeproj to your project on Xcode.
